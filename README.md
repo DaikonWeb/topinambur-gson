@@ -7,7 +7,7 @@ Topinambur Gson is a simple Topinambur's exension. The main goal is:
 
 
 ## How to add Topinambur Gson to your project
-[![](https://jitpack.io/v/daikonweb/topinambur.svg)](https://jitpack.io/#daikonweb/topinambur)
+[![](https://jitpack.io/v/daikonweb/topinambur-gson.svg)](https://jitpack.io/#daikonweb/topinambur-gson)
 
 ### Gradle
 - Add JitPack in your root build.gradle at the end of repositories:
