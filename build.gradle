@@ -8,12 +8,12 @@ repositories {
 }
 
 dependencies {
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
-    implementation "com.github.DaikonWeb:topinambur:1.2.4"
-    compile "com.google.code.gson:gson:2.8.6"
-    testImplementation "org.junit.jupiter:junit-jupiter-api:5.5.2"
-    testImplementation "org.junit.jupiter:junit-jupiter-engine:5.5.2"
-    testImplementation "net.wuerl.kotlin:assertj-core-kotlin:0.2.1"
+    implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
+    implementation 'com.github.DaikonWeb:topinambur:1.2.4'
+    compile 'com.google.code.gson:gson:2.8.6'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.5.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.5.2'
+    testImplementation 'net.wuerl.kotlin:assertj-core-kotlin:0.2.1'
 }
 
 compileKotlin {

@@ -20,7 +20,6 @@ repositories {
 
 - Add the dependency
 ```
-implementation 'com.github.DaikonWeb:topinambur:1.2.4'
 implementation 'com.github.DaikonWeb:topinambur-gson:1.2.4'
 ```
 
@@ -36,11 +35,6 @@ implementation 'com.github.DaikonWeb:topinambur-gson:1.2.4'
 ```
 - Add the dependency
 ```
-<dependency>
-    <groupId>com.github.DaikonWeb</groupId>
-    <artifactId>topinambur</artifactId>
-    <version>1.2.4</version>
-</dependency>
 <dependency>
     <groupId>com.github.DaikonWeb</groupId>
     <artifactId>topinambur-gson</artifactId>
